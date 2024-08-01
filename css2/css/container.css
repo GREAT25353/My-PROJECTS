@@ -1,0 +1,91 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+.hels
+{
+    position: relative;
+    left: 20px;
+    font-family: 'Montserrat', sans-serif;  
+    color: white;
+    font-size: 33px;
+    font-weight: normal;
+    margin: 10px auto;
+    
+
+}
+.header
+{
+    background-color: #3b3939;
+    width: 941px;
+    display: inline-block;
+    height: 60px;
+    margin-bottom: 0;
+}
+.anchorial
+{
+    background-color:#3b3939;
+    position: absolute;
+    left:  950px;
+    display: inline-block;
+    height: 60px;
+    width:580px;
+}
+a
+{
+color: #FFEBB4;
+font-family: 'Montserrat', sans-serif;
+margin:20px 52px;
+font-size: 20px;
+    text-decoration: none;
+    display: inline-block;
+}
+.line
+{
+    width:20px;
+    height: 80px;
+    position: relative;
+    left: 950.8px;
+    background-color: rgb(128, 246, 49);
+}
+.second-column
+{
+    background-color: black;
+    height: 300px;
+    margin: 0px 0px;
+}
+.pseudo
+{
+    margin-top: 150px;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 64px;
+    color: gray;
+    text-align: center;
+    font-weight: normal;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    color: gray;
+    text-align: center;
+    font-size: 30px;
+font-weight: normal;
+}
+.saint
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: medium;
+    color: gray;
+    text-align: center;
+    font-size: 64px;
+   font-weight: normal;
+}
+.shamper
+{
+    border-style: dotted none none none;
+    border-width: 10px;
+    border-color: #FFEBB4;
+    width: 100px;
+    margin: 50px auto;
+}
